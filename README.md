@@ -1,0 +1,2 @@
+# README
+Informatie en ideeën
